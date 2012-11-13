@@ -534,7 +534,7 @@
     <string name="account_settings_composition">Levelek küldése</string>
 
     <string name="account_settings_default_quoted_text_shown_label">Válasznál eredeti levél megjelenítése</string>
-    <string name="account_settings_default_quoted_text_shown_summary">Amikor választ ír, az eredeti üzenet is látható lesz a válszban.</string>
+    <string name="account_settings_default_quoted_text_shown_summary">Amikor választ ír, az eredeti üzenet is látható lesz a válaszban.</string>
 
     <string name="account_settings_reply_after_quote_label">Válasz az idézet után</string>
     <string name="account_settings_reply_after_quote_summary">Válaszlevélnél az eredeti üzenet fent jelenik meg</string>
@@ -550,8 +550,8 @@
     <!-- NEW: <string name="account_settings_always_show_cc_bcc_label">Always show CC/BCC</string>-->
     <!-- NEW: <string name="account_settings_always_show_cc_bcc_summary">Always show the CC/BCC text input fields</string>-->
 
-    <!-- NEW: <string name="account_settings_message_read_receipt_label">Read receipt</string>-->
-    <!-- NEW: <string name="account_settings_message_read_receipt_summary">Always request a read receipt</string>-->
+    <string name="account_settings_message_read_receipt_label">Olvasási visszaigazolás</string>-->
+    <string name="account_settings_message_read_receipt_summary">Mindig kérjen olvasási visszaigazolást</string>-->
 
     <string name="account_settings_quote_style_label">Válaszlevél stílusa</string>
     <string name="account_settings_quote_style_prefix">Előtag (pl. Gmail, Pine)</string>
@@ -566,11 +566,11 @@
     <string name="account_settings_quote_prefix_label">Idézett szöveg előtagja</string>
     <string name="account_settings_crypto">Titkosítás</string>
     <string name="account_settings_crypto_app">OpenPGP Provider</string>
-    <string name="account_settings_crypto_app_none">None</string>
+    <string name="account_settings_crypto_app_none">Nincs</string>
     <string name="account_settings_crypto_app_not_available">nem elérhető</string>
     <string name="account_settings_crypto_auto_signature">Auto aláírás</string>
     <string name="account_settings_crypto_auto_signature_summary">Használja az email címet a titkosítási kulcshoz</string>
-    <!-- NEW: <string name="account_settings_crypto_auto_encrypt">Auto-encrypt</string>-->
+    <string name="account_settings_crypto_auto_encrypt">Automatikus titkosítotás</string>-->
     <!-- NEW: <string name="account_settings_crypto_auto_encrypt_summary">Automatically set encrypt if a public key matches a recipient.</string>-->
 
     <string name="account_settings_mail_check_frequency_label">Frissítés gyakorisága</string>
@@ -781,7 +781,7 @@
     Nagyít\u000aG - Csillagoz</string>
     <string name="message_list_help_key">Del (or D) - Törlés\u000AR -
     Válasz\u000AA - Válasz mindenkinek\u000AC - Írás\u000AF - Továbbít\u000aM -
-    Áthelyezés\u000AY - Násolás\u000AG - Csillagoz\u000AO - Rendezési típus\u000AI - Rendezési sorrend\u000AQ
+    Áthelyezés\u000AY - Másolás\u000AG - Csillagoz\u000AO - Rendezési típus\u000AI - Rendezési sorrend\u000AQ
     - Vissza a mappákba\u000AS - Select/deselect</string>
 
     <!--NEW: <string name="folder_list_help_key">
@@ -853,7 +853,7 @@
     <string name="batch_select_all">Mindent kijelöl</string>
     <string name="batch_deselect_all">Kijelölések megszüntetése</string>
 
-    <string name="account_setup_push_limit_label">Ellenőrízhető mappák száma</string>
+    <string name="account_setup_push_limit_label">Ellenőrizhető mappák száma</string>
     <string name="account_setup_push_limit_10">10 mappa</string>
     <string name="account_setup_push_limit_25">25 mappa</string>
     <string name="account_setup_push_limit_50">50 mappa</string>
@@ -1024,7 +1024,7 @@
     <string name="settings_import_dialog_title">Importálás</string>
     <string name="settings_export_dialog_title">Exportálás</string>
     <string name="settings_import">Beállítások importálása</string>
-    <!-- NEW: <string name="settings_import_selection">Import selection</string>-->
+    <string name="settings_import_selection">Kijelöltek importálása</string>-->
     <string name="settings_import_global_settings">Általános beállítások</string>
     <string name="settings_exporting">Beállítások exportálása…</string>
     <string name="settings_importing">Beállítások importálása…</string>
@@ -1055,7 +1055,7 @@
         <item quantity="other">Setting passwords…</item>
     </plurals>-->
     <!-- NEW: <string name="settings_import_use_incoming_server_password">Use the incoming server password</string>-->
-    <!-- NEW: <string name="activate_account_action">Activate</string>-->
+    <!-- NEW: <string name="activate_account_action">Aktivál</string>-->
 
     <!-- NEW: <string name="settings_unknown_version">Unable to handle file of version <xliff:g id="version">%s</xliff:g></string>-->
 
