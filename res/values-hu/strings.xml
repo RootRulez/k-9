@@ -71,7 +71,7 @@ Hibajelentéseivel hozzájárul az újabb verziók tökéletesítéséhez, kérd
   <string name="message_list_title"><xliff:g id="account">%s</xliff:g>:<xliff:g id="folder">%s</xliff:g> </string>
   <string name="compose_title_compose">Levélírás</string>
   <string name="compose_title_reply">Válasz</string>
-  <string name="compose_title_reply_all">Válasz mindnekinek</string>
+  <string name="compose_title_reply_all">Válasz mindenkinek</string>
   <string name="compose_title_forward">Továbbít</string>
   <string name="choose_folder_title">Válasszon mappát</string>
   <string name="status_loading_account_folder"><xliff:g id="account">%s</xliff:g>:<xliff:g id="folder">%s</xliff:g><xliff:g id="progress">%s</xliff:g></string>
